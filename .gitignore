@@ -5,3 +5,7 @@ core
 *transfer*.py
 *.pyc
 .vscode/
+
+.DS_Store
+paper/datasets/
+paper/images/
